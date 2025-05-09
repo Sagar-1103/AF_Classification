@@ -1,3 +1,14 @@
-. ClassF1.ipynb - Calculated each class f1 score and average f1 score with noise and also with noise
-. Parameters.ipynb - Calculate the best combination of scattering parameters
-. median_length - Median length of all signals
+### 📘 Jupyter Notebooks
+
+#### 🔹 ClassF1.ipynb  
+Calculates the **F1 score for each class** and the **average F1 score**, both **with noise** and **without noise** added to the signals.
+
+---
+
+#### 🔹 Parameters.ipynb  
+Performs a **parameter search** to determine the **optimal combination of scattering parameters** for signal processing.
+
+---
+
+#### 🔹 median_length  
+Contains the **median length** of all input signals — used for **standardizing signal sizes** during preprocessing.
